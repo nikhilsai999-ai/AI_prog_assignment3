@@ -8,8 +8,8 @@ Artificial Intelligence
 
 This programming assignment contains:-
 
-Dijkstra India Distances
+1. Dijkstra India Distances
 
-UGV Static Path
+2. UGV Static Path
 
-UGV Dynamic Path
+3. UGV Dynamic Path
